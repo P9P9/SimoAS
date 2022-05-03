@@ -8,7 +8,7 @@
 
 
 
-# [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Qa8tm/SimoAS)
+# [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/P9P9/SimoAS)
 
 
 **its simple source based on catuserbot but in arabic language !**
